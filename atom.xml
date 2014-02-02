@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[CodeKata—Practice Your Coding]]></title>
+  <link href="http://pragdave.github.io/atom.xml" rel="self"/>
+  <link href="http://pragdave.github.io/"/>
+  <updated>2014-02-02T16:50:33-06:00</updated>
+  <id>http://pragdave.github.io/</id>
+  <author>
+    <name><![CDATA[PragDave]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
