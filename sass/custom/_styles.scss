@@ -1,0 +1,33 @@
+#recent_posts {
+
+  margin-top: 1.5em;
+
+  h1 {
+      font-family: sans-serif;
+      font-size: 140%;
+      font-weight: bold;
+  }   
+
+  ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+
+      li.post {
+          display: block;
+          font-size: 80%;
+          line-height: 0.8em;
+      }
+  }
+
+}
+
+header#sidebar {
+    position: relative;
+    float: left;
+    margin-left: 30px;
+    padding-left: 30px;
+    ul, ul#menu, aside#logo {
+        margin-left: 0;
+    }
+}
